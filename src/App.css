@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  width: 100vw;
+  margin-block: 18px;
+}
+.display-box{
+  border: 3px solid black;
+  width: 43%;
+  margin: auto;
+  color: rgb(52, 52, 255);
+  padding: 5px;
+}
+.display-box span{
+  margin: 40px;
+  font-size: 17px;
+}
